@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 
 import './App.css'
 
@@ -9,6 +9,7 @@ function App() {
     <>
       
       <div className="main-container">
+
         <div className="cards-container">
           <h1>This is card</h1>
         </div>
